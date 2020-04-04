@@ -1,5 +1,4 @@
 
-<img align="center" src="github/omnistack.png"> 
 
 <h1 align="center">
   :rocket: Semana OmniStack 11.0 :rocket:
